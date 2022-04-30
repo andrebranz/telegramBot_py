@@ -1,3 +1,6 @@
+# TELEGRAM BOT BASIC EXAMPLE
+# Andrea 30/04/22 - 
+# https://github.com/andrebranz/telegramBot_py
 from telegram.ext import Updater, CommandHandler
 
 token = "" #token of the bot, you can find it on BotFather chat 
